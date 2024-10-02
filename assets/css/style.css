@@ -12,8 +12,8 @@ dl, dd, ol, ul, figure {
  *   */
 body {
   font: 300 16px/1.35 "Raleway", Helvetica, sans-serif;
-  color: #FCF5E5;
-  background-color: #fdfdfd;
+  color: #111;
+  background-color: #fcf5e5;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
