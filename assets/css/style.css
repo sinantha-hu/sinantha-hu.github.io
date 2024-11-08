@@ -173,6 +173,13 @@ pre {
   font-weight: 300;
   padding-top: 0; }
 
+.float-container {
+    padding-bottom: 2em; }
+
+.float-child {
+    width: 50%;
+    float: left; } 
+
 .home {
   padding-bottom: 2em; }
 
