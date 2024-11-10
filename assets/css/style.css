@@ -181,9 +181,13 @@ pre {
 .float-container {
     padding-bottom: 2em; }
 
-.float-child {
-    width: 50%;
+.float-child-left {
+    width: 30%;
     float: left; } 
+
+.float-child-right {
+    width: 70%;
+    float:left; }
 
 .home {
   padding-bottom: 2em; }
