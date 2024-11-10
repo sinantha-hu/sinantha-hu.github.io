@@ -154,6 +154,7 @@ pre {
       padding-left: 15px; } } */
 
 .wrapper {
+  max-width: 1200px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 10px;
