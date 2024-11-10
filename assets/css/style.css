@@ -182,11 +182,11 @@ pre {
     padding-bottom: 2em; }
 
 .float-child-left {
-    width: 30%;
+    width: 40%;
     float: left; } 
 
 .float-child-right {
-    width: 70%;
+    width: 60%;
     float:left; }
 
 .home {
